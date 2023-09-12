@@ -7,7 +7,7 @@
 <p>My bootcamp projects :</p>
 
 <ul>
-  <li><a href="https://github.com/ozgekilic96/RoboPal">RoboPal'nb</a> : an Airbnb clone.</li>
+  <li><a href="https://github.com/ozgekilic96/RoboPal">RoboPal</a> : an Airbnb clone.</li>
   <li><a href="https://github.com/ozgekilic96/StudyBuddy">StudyBuddy</a> : a student app.</li>
 </ul>
 
