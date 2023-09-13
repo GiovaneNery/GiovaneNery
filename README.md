@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1>Hi there 👋</h1>
 
 # 💫 About Me:
 🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.
