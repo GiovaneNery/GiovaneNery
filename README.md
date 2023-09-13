@@ -3,6 +3,9 @@
 # 💫 About Me:
 🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.
 
+# 🚀 Projects:
+<a href="https://robopal-728743dc042a.herokuapp.com/">RoboPal</a>: an Airbnb clone.
+<a href="http://www.mystuddybuddy.me/">StudyBuddy</a>: a student app.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giovanenery) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovane-nery-b99268162) 
