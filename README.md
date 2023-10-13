@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 
 # 💫 About Me:
-🌱 I’m currently working to improve my skills on Python, Ruby on Rails, CSS and JavaScript.
+🌱 I’m currently working to improve my skills on React, Python, Ruby on Rails, CSS and JavaScript.
 
 # 🚀 Projects:
 <p><a href="https://robopal-728743dc042a.herokuapp.com/">RoboPal</a>: an Airbnb clone.</p>
